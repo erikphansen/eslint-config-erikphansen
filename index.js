@@ -13,19 +13,6 @@ module.exports = {
   rules: {
     'no-var': 'error',
     'prefer-const': 'error',
-    'prettier/prettier': [
-      'error',
-      {
-        bracketSpacing: true,
-        jsxBracketSameLine: false,
-        printWidth: 80,
-        proseWrap: 'preserve',
-        semi: false,
-        singleQuote: true,
-        tabWidth: 2,
-        trailingComma: 'all',
-        useTabs: false,
-      },
-    ],
+    'prettier/prettier': 'error',
   },
 }

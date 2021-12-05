@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-erikphansen",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "ESLint, the way I like it.",
   "repository": "git@github.com:erikphansen/eslint-config-erikphansen.git",
   "main": "index.js",
